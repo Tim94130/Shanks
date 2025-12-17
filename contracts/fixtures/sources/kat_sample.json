@@ -1,0 +1,7 @@
+{
+  "source": "KAT",
+  "records": [
+    { "k_id": "K55", "status": "OK", "check_time": "2023-10-26T09:00:00Z" },
+    { "k_id": "K56", "status": "WARN", "check_time": "2023-10-26T09:15:00Z" }
+  ]
+}

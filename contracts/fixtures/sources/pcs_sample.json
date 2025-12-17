@@ -1,0 +1,7 @@
+{
+  "system": "PCS",
+  "events": [
+    { "event_id": 1001, "type": "LOGIN", "user": "user1" },
+    { "event_id": 1002, "type": "LOGOUT", "user": "user1" }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "origin": "TDC",
+  "transactions": [
+    { "tx_id": "T999", "amount": 500, "currency": "EUR" },
+    { "tx_id": "T1000", "amount": 1200, "currency": "USD" }
+  ]
+}

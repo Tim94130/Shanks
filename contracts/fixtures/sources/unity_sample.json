@@ -1,0 +1,7 @@
+{
+  "source": "UNITY",
+  "data": [
+    { "unity_id": "U100", "value": 123.45, "timestamp": "2023-10-26T10:00:00Z" },
+    { "unity_id": "U101", "value": 67.89, "timestamp": "2023-10-26T10:05:00Z" }
+  ]
+}
